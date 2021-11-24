@@ -1,0 +1,17 @@
+{
+    "name": "rey-stalker",
+    "version": "1.0.0",
+    "description": "Official source code for Rey Stalker Discord bot.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.4.0-dev.1637712337.9f3bf29",
+        "node-notifier": "^10.0.0",
+        "screenshot-desktop": "^1.12.7"
+    }
+}

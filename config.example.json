@@ -1,0 +1,6 @@
+{
+    "token": "Your super secret token",
+    "ownerId": "Your Discord ID",
+    "prefix": "Your Preferred Prefix",
+    "stalkTimeout": 10000
+}
